@@ -129,10 +129,11 @@ $ initialDate
 
 - [x] user/invoice/firstInvoice
 
-````bash
+```bash
 # Parâmetros
 $ contractId
 $ msisdn
+```
 
 - [x] user/protocol/portabilityHistory
 
